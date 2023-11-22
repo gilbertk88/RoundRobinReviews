@@ -1,0 +1,40 @@
+	.ewm_rrr_header_request{
+		font-size:20px;
+		color:#333;
+		padding:20px;
+		width:100%;
+	}
+	.ewm_rrr_top_ff_layer{
+		width:100%;
+	}
+	.ewm_rrr_fields_input{
+		width:100%;
+	}
+	.form_ewm_line{
+		width:100%;
+		padding:9px;
+	}
+	.field_ewm_rrr_single{
+		border-radius:10px !important;
+		width:100%;
+		border:1px solid #ccc !important;
+		padding:14px;
+	}
+	.field_ewm_rrr_single_button{
+		border-radius:5px !important;
+		width:100%;
+		border:1px solid #ccc !important;
+		padding:18px;
+		cursor:pointer;
+		color:#fff !important;
+		background-color:#333;
+		border-radius:50px !important;
+		margin:20px 0px;
+	}
+	.field_ewm_rrr_single_error_1, .field_ewm_rrr_single_error_2, .field_ewm_rrr_single_error_3, .field_ewm_rrr_single_error_4{
+		font-size:14px;
+		color:red;
+		padding:9px;
+		display:none;
+	}
+	

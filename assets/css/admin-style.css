@@ -1,0 +1,338 @@
+a.page-company-action{
+	color: gray;
+	border-bottom: 1px solid gray;
+	border-radius: 3px;
+}
+
+.wt_dark_background_company, .wt_dark_background_address, .wt_dark_background_address_shorten_link {
+	background-color: #3c3c3c1f;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    width: 100%;
+    height: 100%;
+	display: none;
+}
+
+#pop_address_fields , #pop_company_fields{
+    width: 80%;
+    background-color: #fff !important;
+    float: right;
+    position: fixed;
+    right: 0px;
+    top: 0px;
+    padding-top: 30px;
+    height: 100%;
+    padding-left: 20px;
+    box-shadow: 0 5px 8px 0 rgb(151 151 151 / 10%), 0 6px 10px 0 rgb( 118 118 118 / 10% ) !important;
+    overflow: auto;
+}
+.top_nav_fields{
+	width: 100%;
+    padding: 8px 0px 30px 8px;
+	cursor: pointer;
+    overflow: auto;
+}
+.ewm_rrr_main_pop_content{
+    overflow: auto;
+}
+.close_box_company, .close_box_address, .close_box_address_shorten_link{
+    float: right;
+    margin: 25px;
+    border-radius: 10px;
+    background-color: #f0f0f1 !important;
+    border: 0px solid #ccc;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.ewm_rrr_question_mark_circle{
+    color: #333;
+    border: 1px solid #3339;
+    border-radius: 20px;
+    padding: 1px 7px;
+}
+
+a#add_new_location_link{
+    padding: 5px 30px;
+    background-color: green;
+    border: 0px;
+    margin: 5px;
+    border-radius: 15px;
+    cursor: pointer;
+    float: right;
+    box-shadow: 0 5px 8px 0 rgb(193 192 192 / 26%), 0 6px 10px 0 rgb(215 215 215 / 10%) !important;
+    color: #fff;
+}
+
+#edit_company_name_button{
+	color: #333;
+    border: 1px solid #175dc71c;
+    text-decoration: none;
+    padding: 5px 20px;
+}
+
+.ewm_rr_popup_fields{
+    padding: 10px;
+}
+
+#wt_company_name_text, #wt_location_address, #wt_review_link , #wt_review_link_mobile {
+    width: 90%;
+    border-radius: 3px !important;
+    padding: 5px 15px !important;
+    border: 2px solid #ccc !important;
+    min-height: 30px;
+}
+
+.add_link_but{
+    float: right;
+    margin-left: 6px !important;
+}
+
+.add_link_but_top{
+    float: right;
+}
+
+.leave_comment_s{
+    font-size: 14.8px;
+    background-color: #f9f9f9;
+    color: #333;
+    border: 3px solid #ccc;
+    padding: 6px 30px;
+    border-radius: 25px;
+    cursor: pointer;
+}
+
+.leave_comment_s > a {
+    color: #3339;
+    text-decoration: none;
+}
+
+#wt_company_name_submit, #wt_company_location_submit {
+    border-radius: 15px;
+    margin: 23px;
+    padding: 10px 30px;
+    background-color: #f9f9f9 !important;
+    border: 2px solid #ccc !important;
+    cursor: pointer;
+    background: #fff;
+}
+
+#comp_name{
+	font-size: 18px;
+    padding: 8px 40% ;
+    border-radius: 0px;
+    background-color: #72aee633;
+    width: 100%;
+}
+#edit_company_name_button{
+	border: 1px solid #72aee633;
+}
+
+.ewm_rotation_link_title{
+    font-size: 19px;
+    color: grey;
+}
+
+.subsubsub_rr{
+    list-style: none;
+    margin: 8px 0 0;
+    padding: 14px 0px;
+    font-size: 13px;
+    float: right;
+    color: #646970;
+}
+
+#ewm_final_wrapper{
+    width: 100%;
+    overflow: auto;
+    position: relative;
+}
+
+.ewm_title_top{
+    padding-left: 15px;
+}
+
+.ewm_rrr_review_f_parent{
+    background-color:#fff;
+    border-radius: 10px;
+    margin:10px 30px 50px 0px;
+    border:1px solid #8080801c;
+}
+
+#ewm_rrr_cf_h{
+    width:100%;
+    font-size:18px;
+    margin-top:30px;
+    margin-bottom:0px;
+}
+
+.ewm_rrr_single_tr_row{
+    width:100%;
+}
+
+.ewm_rrr_single_line_d{
+    background-color:#333;
+    border-radius: 40px;
+    color: #FFF;
+    padding: 5px 20px;
+    cursor: pointer;
+    background: #fff;
+    border: 0px;
+    border-radius: 10px;
+    padding: 10px;
+    cursor: pointer;
+    float: left;
+    margin: 5px;
+    color: #ccc;
+}
+
+#ewm_rrr_how_to_sh_link{
+    font-size: 15px;
+    margin-left: 30px;
+    color: #0008;
+    padding: 5px 20px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.ewm_rrr_steps_to_shorten_url_li{
+    list-style-type: decimal;
+    padding: 5px 30px;
+}
+.ewm_rrr_post_drop_down, .ewm_rrr_post_drop_down_ff{
+    width: 500px;
+    padding: 5px 30px;
+    border-radius: 20px !important;
+}
+
+.ewm_rr_t_header_item-outer{}
+.ewm_rr_t_header_item{ }
+
+.wt_dark_background_address_shorten_mobile{
+    background-color: #3c3c3c1f;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    width: 100%;
+    height: 100%;
+    display: none;
+}
+
+.close_box_address_shorten_mobile{
+    float: right;
+    margin: 25px;
+    border-radius: 10px;
+    background-color: #f0f0f1 !important;
+    border: 0px solid #ccc;
+    padding: 10px;
+    cursor: pointer;
+}
+
+#pop_mobile_steps{
+    width: 80%;
+    background-color: #fff !important;
+    float: right;
+    position: fixed;
+    right: 0px;
+    top: 0px;
+    padding-top: 30px;
+    height: 100%;
+    padding-left: 20px;
+    box-shadow: 0 5px 8px 0 rgb(151 151 151 / 10%), 0 6px 10px 0 rgb( 118 118 118 / 10% ) !important;
+    overflow: auto;
+}
+
+.ewm_rr_image_item{
+    border-radius: 10px !important;
+}
+
+.ewm_rr_header_h{
+    width: 100%;
+}
+
+.ewm_rr_t_outer{
+    width: 90%;
+    padding: 30px;
+}
+
+.ewm_rr_t_header_item{
+    padding: 10px;
+    background-color: #f9f9f9;
+    color: #333;
+    border-radius: 6px;
+    min-width: 25%;
+}
+
+.ewm_rr_single_td_h{
+    padding: 10px;
+    background-color: #f9f9f9;
+    color: #333;
+    border-radius: 6px;
+    min-width: 25%;
+}
+
+.top_nav_fields_mobile{
+    width:100%;
+    overflow: auto;
+}
+.ewm_rr_text_description{
+    float:left;
+}
+.ewm_rr_text_image{
+    float:right;
+}
+#ewm_rrr_main_pop_content_mobile{
+    width: 90%;
+    overflow: auto;
+    padding: 0px 40px;
+    margin: 20px;
+}
+
+.ewm_rr_mobile_generator_menu{
+    border: 1px solid #00800057;
+    margin-right: 5px;
+    padding: 10px 20px;
+    border-radius: 15px;
+    background: #00800000;
+    color: #333;
+    float: left;
+    cursor: pointer;
+}
+
+.ewm_rr_mobile_content{
+    margin-top: 20px;
+}
+
+.ewm_rr_mobile_list_item_title{
+    background: aliceblue;
+    margin: 10px 0px;
+    border-radius: 10px;
+}
+
+.ewm_rr_mobile_next_prev{
+    width: 90%;
+    overflow: auto;
+}
+
+.ewm_rr_mobile_prev{
+    background:#fff;
+    border: 1px solid #008000cc;
+    background: #008000cc;
+    border-radius: 10px;
+    float: left;
+    color: #fff;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.ewm_rr_mobile_next{
+    background:#fff;
+    border: 1px solid #008000cc;
+    background: #008000cc;
+    border-radius: 10px;
+    float: right;
+    color: #fff;
+    padding: 10px 20px;
+    cursor: pointer;
+}
